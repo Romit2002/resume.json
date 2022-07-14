@@ -1,0 +1,142 @@
+{
+    "basics": {
+        "name": "Romit Das",
+        "label": "Student",
+        "picture": "https://iiitkota.ac.in/static/media/gaurav.37dd1b4e.png",
+        "email": "2021kucp1008@iiitkota.ac.in",
+        "phone": "+918777429224",
+        "website": "",
+        "summary": "I'm a student of Indian Institute of Information technology,Kota (India), persuing my B.tech in Computer Science & engineering. To tell about Romit, he is aspiring to become a Software Development Engineer. He is interested in self learning and implementing new Data Structures and Algorithms.",
+        "location": {
+            "address": "Kolkata",
+            "postalCode": "712245",
+            "city": "Kolkata",
+            "countryCode": " India",
+            "region": "West Bengal"
+        },
+        "profiles": [
+            {
+                "network": "Twitter",
+                "username": "",
+                "url": ""
+            },
+            {
+                "network": "Github",
+                "username": "thegauravparmar",
+                "url": "https://www.github.com/thegauravparmar"
+            },
+            {
+                "network": "linkedin",
+                "username": "Romit Das",
+                "url": "https://www.linkedin.com/in/romit-das/"
+            },
+            {
+                "network": "Instagram",
+                "username": "ig_romitdas",
+                "url": "https://instagram.com/ig_romitdas"
+            }
+        ]
+    },
+    "work": [
+        {
+            "company": "",
+            "position": "",
+            "website": "",
+            "startDate": "",
+            "endDate": "",
+            "summary": ""
+        },
+        {
+            "company": "",
+            "position": "",
+            "website": "",
+            "startDate": "",
+            "endDate": "",
+            "summary": ""
+        },
+        {
+            "company": "",
+            "position": "",
+            "website": "",
+            "startDate": "",
+            "endDate": "",
+            "summary": ""
+        }
+    ],
+    "education": [
+        {
+            "institution": "Indian Institute of Information Technology,Kota",
+            "area": "Engineering",
+            "studyType": "Bachelor (hons)",
+            "startDate": "",
+            "endDate": "",
+            "gpa": "8.2",
+            "courses": [
+                "Computer Science & Engineering"
+            ]
+        }
+    ],
+    "awards": [
+        {
+            "title": "",
+            "awarder": "",
+            "date": ""
+        }
+    ],
+    "publications": [
+        {
+            "title": "",
+            "details": "",
+            "link": ""
+        },
+        {
+            "title": "",
+            "details": "",
+            "link": ""
+        },
+        {
+            "title": "",
+            "details": "",
+            "link": ""
+        }
+    ],
+    "skills": [
+        {
+            "name": "Full Stack Development",
+            "level": "Master",
+            "keywords": [
+                "HTML",
+                "CSS",
+                "Javascript",
+                "C/C++",
+                "Java",
+            ]
+        }
+    ],
+    "languages": [
+        {
+            "language": "English",
+            "fluency": "Native speaker"
+        }
+    ],
+    "interests": [
+        {
+            "name": "Painting",
+            "keywords": [
+                "Water Colour"
+            ]
+        },
+	  {
+            "name": "Music",
+            "keywords": [
+                "Guitar"
+            ]
+        },
+        {
+            "name": "Playing",
+            "keywords": [
+                "Football"
+            ]
+        }
+    ]
+}
