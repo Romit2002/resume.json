@@ -22,8 +22,8 @@
             },
             {
                 "network": "Github",
-                "username": "thegauravparmar",
-                "url": "https://www.github.com/thegauravparmar"
+                "username": "Romit2002",
+                "url": "https://github.com/Romit2002"
             },
             {
                 "network": "linkedin",
@@ -103,7 +103,7 @@
     "skills": [
         {
             "name": "Full Stack Development",
-            "level": "Master",
+            "level": "Intermediate",
             "keywords": [
                 "HTML",
                 "CSS",
